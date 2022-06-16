@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Information about the course and a calendar of lecture topics and key
+  dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

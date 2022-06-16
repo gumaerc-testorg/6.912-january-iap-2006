@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Copyright Applied to Music'
 uid: cfe71a23-1b17-9a04-50f9-dca36065c7c3
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Copyright applied to Music, Computers; Napster®; Peer-to-Peer File Sharing
 
 **Instructor:** Keith Winstein
+
+
+
