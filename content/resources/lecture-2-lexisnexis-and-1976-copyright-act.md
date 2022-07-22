@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: LexisNexis and 1976 Copyright Act'
 uid: 2cdc2689-825c-ffd0-986b-951e4c4accbd
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered:** LexisNexis®; 1976 Copyright Act
 
 **Instructor:** Keith Winstein
+
