@@ -6,6 +6,7 @@ file: /courses/6-912-introduction-to-copyright-law-january-iap-2006/992bf092eb04
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lexis_intro.pdf
 uid: 992bf092-eb04-8b7d-f83e-3892709eab48
 ---
 This handout covers sources of legal materials, how to read and write citations, and how to find legal materials.
-

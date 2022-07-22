@@ -5,6 +5,7 @@ file: /courses/6-912-introduction-to-copyright-law-january-iap-2006/29b949830fbd
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: copyright_law.pdf
 uid: 29b94983-0fbd-a95d-6828-5385b5ab6bc5
 ---
 Primary source reading.
-

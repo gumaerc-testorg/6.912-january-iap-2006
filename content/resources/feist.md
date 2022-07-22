@@ -5,6 +5,7 @@ file: /courses/6-912-introduction-to-copyright-law-january-iap-2006/286e15d6ab1d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: feist.pdf
 uid: 286e15d6-ab1d-aa9d-c77b-bd4c58279919
 ---
 Primary source reading.
-
