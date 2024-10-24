@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Primary source reading.
-file: /courses/6-912-introduction-to-copyright-law-january-iap-2006/f4145a5655c672fd8b51c5219fe3332c_corley.pdf
+file: /ol-ocw-studio-app/courses/6-912-introduction-to-copyright-law-january-iap-2006/f4145a5655c672fd8b51c5219fe3332c_corley.pdf
 file_size: 190562
 file_type: application/pdf
 learning_resource_types:
