@@ -56,10 +56,10 @@ Here's a LexisNexis® handout you may find helpful. ({{% resource_link fb3155d8-
   
 Please read these cases to discuss in class:  
   
-\- [_Feist Publications, Inc. v. Rural Telephone Service Co._](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=499&invol=340), 499 U.S. 340 (1991). ({{% resource_link 286e15d6-ab1d-aa9d-c77b-bd4c58279919 "PDF" %}})  
-\- [_Campbell v. Acuff-Rose Music, Inc._](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=000&invol=U10426), 510 U.S. 569 (1994). ({{% resource_link 182be6a9-663b-2a9b-5ce0-3374a2e1d3b6 "PDF" %}})  
+\- {{% resource_link "4369d036-5d4a-416d-ab2d-014d364bd12b" "_Feist Publications, Inc. v. Rural Telephone Service Co._" %}}, 499 U.S. 340 (1991). ({{% resource_link 286e15d6-ab1d-aa9d-c77b-bd4c58279919 "PDF" %}})  
+\- {{% resource_link "74006515-0cfc-4ceb-8f72-0e6c53f3fc33" "_Campbell v. Acuff-Rose Music, Inc._" %}}, 510 U.S. 569 (1994). ({{% resource_link 182be6a9-663b-2a9b-5ce0-3374a2e1d3b6 "PDF" %}})  
 \- _On Command Video Corp. v. Columbia Pictures Industries_, 777 F. Supp. 787 (N.D. Cal. 1991). ({{% resource_link 2175d435-ed92-6b2e-d0ff-5de27e3eebb3 "PDF" %}})  
-\- [_Sony Corp. of America v. Universal City Studios, Inc._](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=464&invol=417), 464 U.S. 417 (1984). ({{% resource_link b13bb681-0f77-c16c-7e42-9ffd6633cad2 "PDF" %}})  
+\- {{% resource_link "5149013f-9134-4b74-be6e-5b94cf5e6f0b" "_Sony Corp. of America v. Universal City Studios, Inc._" %}}, 464 U.S. 417 (1984). ({{% resource_link b13bb681-0f77-c16c-7e42-9ffd6633cad2 "PDF" %}})  
   
 (Remember, just type the middle part of the citation (e.g., "499 U.S. 340") into the "Get a Case" citation field in Lexis-Nexis to call up the opinion.)
 {{< tdclose >}}
@@ -77,7 +77,7 @@ Copyright Applied to Music, Computers; Napster®; Peer-to-Peer File Sharing
 
 Go to LexisNexis®, "Legal Research," then "Federal Code," and finally "Guided Search." (That will take you to this form.)  
   
-Search for "17 uscs" in "Cite." This will pull up the entire [Copyright Act](http://www.copyright.gov/title17/). Alternately, you can use the [U. S. Copyright Office](http://www.copyright.gov/)'s file: ({{% resource_link 29b94983-0fbd-a95d-6828-5385b5ab6bc5 "PDF - 3 MB" %}}).  
+Search for "17 uscs" in "Cite." This will pull up the entire {{% resource_link "1fae9e94-30c6-432a-921f-92d937259483" "Copyright Act" %}}. Alternately, you can use the {{% resource_link "14312d94-f625-4bd7-9b36-74dc24106c4e" "U. S. Copyright Office" %}}'s file: ({{% resource_link 29b94983-0fbd-a95d-6828-5385b5ab6bc5 "PDF - 3 MB" %}}).  
   
 Read the following sections of the statute. (If the section seems to go on and on, just read the first few subsections. You may find it helpful to look back at the definitions in section 101.)  
   
@@ -106,15 +106,15 @@ Read the following sections of the statute. (If the section seems to go on and o
 Software Licensing; DVDs and Encryption
 {{< tdclose >}}
 {{< tdopen >}}
-Read [17 U.S.C. § 512](http://www.law.cornell.edu/uscode/html/uscode17/usc_sec_17_00000512----000-.html). (Remember: Use "17 uscs sec 512".)  
+Read {{% resource_link "57999622-4b09-47c2-87be-1e3236b04de6" "17 U.S.C. § 512" %}}. (Remember: Use "17 uscs sec 512".)  
   
-Read [_Recording Industry Ass'n of America v. Diamond Multimedia Systems, Inc._](http://www.law.cornell.edu/copyright/cases/180_F3d_1072.htm), 180 F.3d 1072 (9th Cir. 1999).  
+Read {{% resource_link "a6f001b0-f776-4620-87aa-e258e2489597" "_Recording Industry Ass'n of America v. Diamond Multimedia Systems, Inc._" %}}, 180 F.3d 1072 (9th Cir. 1999).  
   
-Read [_Universal City Studios, Inc. v. Corley_](http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=case&court=2nd&no=00-9185), 273 F.3d 429 (2d Cir. 2001). ({{% resource_link f4145a56-55c6-72fd-8b51-c5219fe3332c "PDF" %}})  
+Read {{% resource_link "c85563b6-d66c-40ed-8dc6-657f5a141a2f" "_Universal City Studios, Inc. v. Corley_" %}}, 273 F.3d 429 (2d Cir. 2001). ({{% resource_link f4145a56-55c6-72fd-8b51-c5219fe3332c "PDF" %}})  
   
-Read [_Chamberlain Group, Inc. v. Skylink Technologies, Inc._](http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=case&court=fed&no=04-1118), 381 F.3d 1178 (Fed. Cir. 2004). ({{% resource_link fc2fc2aa-2be4-708f-a345-5c0d0c3698ff "PDF" %}})  
+Read {{% resource_link "7363c900-0f41-41a0-9e73-2c775faaba69" "_Chamberlain Group, Inc. v. Skylink Technologies, Inc._" %}}, 381 F.3d 1178 (Fed. Cir. 2004). ({{% resource_link fc2fc2aa-2be4-708f-a345-5c0d0c3698ff "PDF" %}})  
   
-Read Jonathan Zittrain's essay, "The Copyright Cage," in [legalaffairs magazine](http://www.legalaffairs.org/issues/July-August-2003/feature_zittrain_julaug03.msp).
+Read Jonathan Zittrain's essay, "The Copyright Cage," in {{% resource_link "6769546a-e500-46fd-8a4e-6e06bf0236c4" "legalaffairs magazine" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
